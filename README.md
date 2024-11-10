@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](./images/screenshots/Screenshot-desktop.png)
-![mobile](./images/screenshots/Screenshot-Mobile.png)
-![mobile-menu](./images/screenshots/Screenshot-mobile-menu.png)
+![desktop](./assets/images/screenshots/Screenshot-desktop.png)
+![mobile](./assets/images/screenshots/Screenshot-Mobile.png)
+![mobile-menu](./assets/images/screenshots/Screenshot-mobile-menu.png)
 
 ### Links
 
